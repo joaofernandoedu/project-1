@@ -21,12 +21,17 @@ In anticipation of the bustling Christmas season of 2023, a determined entrepren
 
 **Dashboard Report:** Develop an interactive dashboard providing real-time analytics and performance metrics. The dashboard will offer insights into session trends, and conversion rates, enabling informed decision-making.
 
-<img src="./media/dashboard/dashboard.png" width=40%>
+<img src="./output/dashboard.png" width=40%>
 
-<a href="https://drive.google.com/file/d/1GnIiaLeq_bj8tY88jUNc9xakdRAknv_i/view?usp=sharing">Access & Download Dashboard</a>
+<a href="https://drive.google.com/file/d/1GnIiaLeq_bj8tY88jUNc9xakdRAknv_i/view?usp=sharing" target="__blank">Access & Download Dashboard</a>
 
 **Storytelling Presentation:** Create an engaging presentation summarising key insights and recommendations to entrepreneur. The presentation will highlight actionable strategies derived from data analysis to enhance the website's performance and increase conversion rates.
-+ source: 
+
+<img src="./output/presentation.png" width=40%>
+
+<a href="https://docs.google.com/presentation/d/16wNspvvbP7YRqfwWD-3fkocJ_WPxgpVO/edit?usp=drive_link&ouid=115869707834917525849&rtpof=true&sd=true" target="_blank">Access & Download Final Presentation</a>
+
+<a href="https://drive.google.com/file/d/1od-HZx0lh_RXJrQSAg2MQMxo5HVHzOHi/view?usp=sharing" target="_blank">Access & Download PDF version</a>
 
 ## Tools & Technologies
 

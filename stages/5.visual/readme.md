@@ -1,48 +1,33 @@
-# Analysis I: Performance Overview
+# Visualisation (Dashboard Report)
 
-**Total Session**<br>
-How many sessions were generated during the trial month (December)?
-
-<img src="">
-
-**Total Registrant**<br>
-How many sessions were completed the registration?
+This section llustrates the step-by-step creation of a dashboard report using Power BI.
 
 <img src="">
 
-**Device Usage**<br>
-What type of devices did visitors use to access the site?
+Elected MySQL as the data source and entered user credentials to access the respective host, database, and tables.
+
+<img src="">
+<img src="">
+
+Used Power Query to verify data types remain consistent with the database. Checked for any blank or duplicate values prior to loading into Power Pivot.
 
 <img src="">
 
-**Load & Duration Per Session**<br>
-What were the average load time and duration per session?
+Established a distinct "calendar" table housing date-related fields like years, months, and weekdays, utilising DAX to automatically generate a date range and parse it into relevant columns.
 
 <img src="">
 
-**Conversion & Bounce Rate**<br>
-What was the percentage rate of completed registrations versus bounce rates?
+Confirmed that all relationships were established according to the database schema. Added a relationship between the calendar table and the factual table, validating their functionality through visual representations.
 
 <img src="">
 
-**Monthly Trend: Traffic Vs Registration**<br>
-How did traffic (sessions) correlate with registration numbers throughout December?
+Formulated measures to summarise data, including total sessions, registrations, average load time, and average duration. Due to the absence of historical data, implementing DAX time intelligence functions for year-over-year, month-over-month, or day-over-day comparisons was not possible.
+
+<img src="">
+<img src="">
+
+Before adding visuals, I utilised Figma tools to layout and design the dashboard. I prioritised important elements and emphasied key data points. My design approach focused on simplicity, minimalism, and readability. I explored designs on Dribbble and Freepik websites, which helped me choose an appropriate colour scheme, typography, and overall design.
 
 <img src="">
 
-## Analysis II & Visuals: Deeper investigation
-
-**Page Load Time & Duration Differences**<br>
-How did page load time and session duration differ between registrant and non-registrant?
-
-<img src="">
-
-**Device Usage Among Registrants?**<br>
-Are there any preferable device used by registrant?
-
-<img src="">
-
-**Fluctuations in Bandwidth and Load Time**<br>
-Were there specific days with bandwidth fluctuations affecting load times across devices?
-
-<img src="">
+Constructed the final version of the dashboard, refining graph and chart content to spotlight essential data and eliminate clutter.
